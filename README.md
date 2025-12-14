@@ -47,11 +47,11 @@ const houssam = {<br/>
 ## GitHub Activity
 
 <p align="center"> 
-  <img align="left" width="480" src="https://github-readme-stats.zohan.tech/api?username=vortix-dev&theme=monokai" show_icons=true count_private=true />
+  <img align="left" width="480" src="https://github-readme-stats.zohan.tech/api?username=houssam-elddine&theme=monokai" show_icons=true count_private=true />
 <p/>
   <br/>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortix-dev&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssam-elddine&layout=compact&theme=github_dark"/>
 </p>
 
 ---
